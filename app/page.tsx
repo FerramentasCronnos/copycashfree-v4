@@ -16,11 +16,11 @@ export default function LandingPage() {
       <div className="w-full max-w-md flex flex-col items-center px-4 py-6">
         {/* Título principal */}
         <h1 className="text-2xl font-bold text-center mb-2">
-        Use Absolutamente De Graça O Método Copy Cash
+        Ex-Negativos No Trading Agora
           <br />
-          Que Tá Gerando <span className="text-blue-500">De R$300 A R$1.250/Mês</span>
+          <span className="text-blue-500">Lucram R$300-R$1.250/Mês Com O Método Copy Cash</span>
           <br />
-          Mesmo Para Iniciantes No Mercado Financeiro.
+          E Você Pode Acessar Agora Totalmente Grátis
         </h1>
 
         {/* Imagem principal */}
